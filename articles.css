@@ -1,0 +1,75 @@
+/* Instructions:
+Copy and paste your blog article HTML into the index.html file for this exercise. For each article on your blog page, you need to have the following things to be unique.
+
+A different background color.
+A different font family.
+A different font size.
+A different font color.
+A different line height.
+A different padding value.
+Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
+
+#article1 {
+    background-color: lightgreen;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1em;
+    color: black;
+    line-height: 1em;
+    padding: 1.5em;
+    border: solid 1px black;
+    border-radius: 5%;
+
+}
+
+#article2 {
+    background-color: lightgray;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-size: 1.25em;
+    color: orange;
+    line-height: 1.25em;
+    padding: 3em;
+    border: solid 1px black;
+    border-radius: 5%;
+    border: solid 2px black;
+    border-radius: 15%;
+
+}
+
+#article3 {
+    background-color: lightblue;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 1em;
+    color: limegreen;
+    line-height: 1.5em;
+    padding: 4em;
+    border: solid 3px black;
+    border-radius: 20%;
+
+}
+
+#article4 {
+    background-color: pink;
+    font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+    font-size: 1.5em;
+    color: darkblue;
+    line-height: 1.75em;
+    padding: 6em;
+    border: solid 4px black;
+    border-radius: 25%;
+
+}
+
+
+#article5 {
+    background-color: lightblue;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-size: 2em;
+    color: hotpink;
+    line-height: 2em;
+    padding: 7em;
+    border: solid 5px black;
+    border-radius: 35%;
+
+}
+
+/*COMPLETED EXERCISE*/
